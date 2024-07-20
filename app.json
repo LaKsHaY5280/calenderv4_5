@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "calenderv4_5",
+    "slug": "calenderv4_5",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
